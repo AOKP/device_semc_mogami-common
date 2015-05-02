@@ -315,7 +315,7 @@ key COMMA {
 key SPACE {
     label:                              ' '
     base:                               ' '
-    shift, capslock:                    ' '
+    shift, capslock:                    '\u200c'
     alt:                                ' '
 }
 
