@@ -18,6 +18,7 @@
     <string name="app_name">Mogami keypad</string>
     <string name="keyboard_layouts_label">Xperia Mini Pro / Pro keyboard</string>
     <string name="keyboard_layout_arabic_label">Arabic</string>
+    <string name="keyboard_layout_farsi_label">Farsi (Persian)</string>
     <string name="keyboard_layout_azerty_label">AZERTY</string>
     <string name="keyboard_layout_cyrillic_label">Cyrillic</string>
     <string name="keyboard_layout_cyrillic2_label">Cyrillic alternative</string>

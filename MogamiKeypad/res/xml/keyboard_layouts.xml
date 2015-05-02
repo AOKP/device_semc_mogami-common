@@ -19,6 +19,10 @@
             android:label="@string/keyboard_layout_arabic_label"
             android:keyboardLayout="@raw/keyboard_layout_arabic" />
 
+    <keyboard-layout android:name="keyboard_layout_farsi"
+            android:label="@string/keyboard_layout_farsi_label"
+            android:keyboardLayout="@raw/keyboard_layout_farsi" />
+
     <keyboard-layout android:name="keyboard_layout_azerty"
             android:label="@string/keyboard_layout_azerty_label"
             android:keyboardLayout="@raw/keyboard_layout_azerty" />
